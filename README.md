@@ -6,4 +6,5 @@ In this study, microscopic image of blood samples from Acute Lymphoblastic Leuke
 
 [1] Labati, R.D., Piuri, V., Scotti, F., 2011. All-idb: The acute lymphoblastic leukemia image database for image processing. In: 18th IEEE International Conference on Image
 Processing, ICIP, pp. 2045–2048.
+
 [2] [dataset] https://homes.di.unimi.it/scotti/all/
